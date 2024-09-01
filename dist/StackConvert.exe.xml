@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Mark\Documents\NetBeansProjects\PersonalProjects\dist\PersonalProjects.jar</jar>
+  <outfile>C:\Users\Mark\Documents\NetBeansProjects\PersonalProjects\dist\StackConverter.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon></icon>
+  <jre>
+    <path>C:\Program Files\Java\jdk-22</path>
+    <requiresJdk>true</requiresJdk>
+    <requires64Bit>true</requires64Bit>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+    <opt>-Dlaunch4j.exedir=&quot;%EXEDIR%&quot;</opt>
+  </jre>
+</launch4jConfig>

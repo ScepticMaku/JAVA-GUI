@@ -1,0 +1,108 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\Mark\Documents\NetBeansProjects\PersonalProjects\dist\PersonalProjects.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Mark\Documents\NetBeansProjects\PersonalProjects\dist\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-22
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-22\bin\javac.exe (OK)
+Version string: 1.022.000_002 / 64-Bit (OK)
+Substitute:	EXEDIR = C:\Users\Mark\Documents\NetBeansProjects\PersonalProjects\dist
+Main class:	GUIVersion.StackConvert
+Add classpath:	lib\AbsoluteLayout.jar
+Launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Launcher args:	-Dlaunch4j.exedir="C:\Users\Mark\Documents\NetBeansProjects\PersonalProjects\dist" -classpath "C:\Users\Mark\Documents\NetBeansProjects\PersonalProjects\dist\PersonalProjects.exe;lib\AbsoluteLayout.jar" GUIVersion.StackConvert
+Args length:	226/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Mark\Documents\NetBeansProjects\PersonalProjects\dist\PersonalProjects.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Mark\Documents\NetBeansProjects\PersonalProjects\dist\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-22
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-22\bin\javac.exe (OK)
+Version string: 1.022.000_002 / 64-Bit (OK)
+Substitute:	EXEDIR = C:\Users\Mark\Documents\NetBeansProjects\PersonalProjects\dist
+Main class:	GUIVersion.StackConvert
+Add classpath:	lib\AbsoluteLayout.jar
+Launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Launcher args:	-Dlaunch4j.exedir="C:\Users\Mark\Documents\NetBeansProjects\PersonalProjects\dist" -classpath "C:\Users\Mark\Documents\NetBeansProjects\PersonalProjects\dist\PersonalProjects.exe;lib\AbsoluteLayout.jar" GUIVersion.StackConvert
+Args length:	226/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Mark\Documents\NetBeansProjects\PersonalProjects\dist\PersonalProjects.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Mark\Documents\NetBeansProjects\PersonalProjects\dist\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-22
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-22\bin\javac.exe (OK)
+Version string: 1.022.000_002 / 64-Bit (OK)
+Substitute:	EXEDIR = C:\Users\Mark\Documents\NetBeansProjects\PersonalProjects\dist
+Main class:	GUIVersion.StackConvert
+Add classpath:	lib\AbsoluteLayout.jar
+Launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Launcher args:	-Dlaunch4j.exedir="C:\Users\Mark\Documents\NetBeansProjects\PersonalProjects\dist" -classpath "C:\Users\Mark\Documents\NetBeansProjects\PersonalProjects\dist\PersonalProjects.exe;lib\AbsoluteLayout.jar" GUIVersion.StackConvert
+Args length:	226/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Mark\Documents\NetBeansProjects\PersonalProjects\dist\PersonalProjects.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Mark\Documents\NetBeansProjects\PersonalProjects\dist\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-22
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-22\bin\javac.exe (OK)
+Version string: 1.022.000_002 / 64-Bit (OK)
+Substitute:	EXEDIR = C:\Users\Mark\Documents\NetBeansProjects\PersonalProjects\dist
+Main class:	GUIVersion.StackConvert
+Add classpath:	lib\AbsoluteLayout.jar
+Launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Launcher args:	-Dlaunch4j.exedir="C:\Users\Mark\Documents\NetBeansProjects\PersonalProjects\dist" -classpath "C:\Users\Mark\Documents\NetBeansProjects\PersonalProjects\dist\PersonalProjects.exe;lib\AbsoluteLayout.jar" GUIVersion.StackConvert
+Args length:	226/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Mark\Documents\NetBeansProjects\PersonalProjects\dist\StackConverter.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Mark\Documents\NetBeansProjects\PersonalProjects\dist\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-22
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-22\bin\javac.exe (OK)
+Version string: 1.022.000_002 / 64-Bit (OK)
+Substitute:	EXEDIR = C:\Users\Mark\Documents\NetBeansProjects\PersonalProjects\dist
+Launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Launcher args:	-Dlaunch4j.exedir="C:\Users\Mark\Documents\NetBeansProjects\PersonalProjects\dist" -jar "C:\Users\Mark\Documents\NetBeansProjects\PersonalProjects\dist\StackConverter.exe"
+Args length:	171/32768 chars
+Exit code:	0
